@@ -169,5 +169,7 @@ Project/
 └── test2.jpg                     # Sample test image
 
 ```
-
-**Author:** [Om Chauhan](https://github.com/OmChauhan2023)
+## 👨‍💻 My Contribution
+- Implemented Raspberry Pi integration
+- Worked on facial recognition pipeline
+- Developed attendance tracking logic
